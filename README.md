@@ -1,7 +1,7 @@
 # YouTube-Clone
 # Embedding Images and Video - Project 1.
 
-This project is a replica of youtube player page
+This is a challenge to recreate a YouTube page using HTML and CSS
 ​![Screenshot from 2020-07-12 22-11-26](https://user-images.githubusercontent.com/43843720/87256581-a5926b00-c49c-11ea-8059-7d43adf5f10e.png)
 
 ## Built With
