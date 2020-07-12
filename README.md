@@ -13,11 +13,10 @@ This project is a replica of youtube player page
 - Firefox Developer Edition dev tools
 ​
 ## Live Demo
+[YouTube-Clone](https://festive-yalow-f4b72f.netlify.app/)
 
-
-​
 ## Authors
-​
+
 👤 **Abigael Nyangasi**
 ​
 - Github: [IjayAbby](https://github.com/IjayAbby)
