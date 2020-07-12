@@ -2,15 +2,12 @@
 # Embedding Images and Video - Project 1.
 
 This project is a replica of youtube player page
-​
-## Desktop
+​![Screenshot from 2020-07-12 22-11-26](https://user-images.githubusercontent.com/43843720/87256581-a5926b00-c49c-11ea-8059-7d43adf5f10e.png)
 
 ## Built With
 ​
-- HTML,
-- CSS,
-- VS Code
-- Firefox Developer Edition dev tools
+- HTML
+- CSS
 ​
 ## Live Demo
 [YouTube-Clone](https://festive-yalow-f4b72f.netlify.app/)
