@@ -24,10 +24,10 @@ This project is a replica of youtube player page
 
 👤 **Gilbert Gotora**
 ​
-- Github: [Rickcoyl](https://github.com/8Bts)
-- Twitter: [@Rasheed49705929](https://twitter.com/Rasheed49705929)
-- Linkedin: [rick oburu](https://www.linkedin.com/in/rick-oburu-8627591a4//)
-- Email: rickoburu@gmail.com
+- Github: [ggotora](https://github.com/ggotora)
+- Twitter: [@gotora_gilbert](https://twitter.com/gotora_gilbert)
+- Linkedin: [linkedin Gilbert Gotora](https://www.linkedin.com/in/gilbert-gotora/)
+- Email: gilbertgotora2@gmail.com
 ​
 ## �� Contributing
 ​
