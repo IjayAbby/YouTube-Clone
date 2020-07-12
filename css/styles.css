@@ -1,0 +1,252 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/********************End of reset****************/
+
+/* Global Styles */
+
+body {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Header */
+
+.header {
+    position: fixed;
+    padding-top: 20px;
+    background-color: white;
+    width: 100%;
+    height: 10vh;
+    
+}
+.header-links {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    list-style: none;
+    
+}
+.logo-area,
+.header-menu  {
+    flex: 1;    
+
+}
+.logo-area {
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+
+}
+.logo-area a {
+    padding: 0 10px;
+    display: inline-block;
+}
+.logo-area img {
+    width: 110px;
+}
+.search-area {
+    flex: 2;
+}
+.search-area label {
+    display: flex;
+}
+.search-area input {
+    width: 100%;
+    padding: .7em 1em;
+    display: inline-block;
+    border-radius: 3px;
+    border: 1px solid rgb(212, 199, 199);
+    
+}
+.search-area input:focus {
+    outline: 2px solid rgb(93, 135, 150);
+    border-radius: 6px;
+}
+.search-area button {
+    padding: .7rem 2rem;
+    background: rgba(121, 115, 115, 0.144);
+    border-radius: 0 4px 4px 0;
+    border-style: none;
+    cursor: pointer;
+    
+}
+.search-area button:hover {
+    background-color: rgba(0, 0, 0, 0.349);
+}
+
+.header-menu i{
+   padding: 0 5%; 
+   color: black;
+   font-size: 1rem;
+   margin-right: 15px;
+}
+.header-menu-list {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+.header-menu-list li {
+    margin: 10px;
+}
+
+.featured-area{
+    display: flex;
+    height: 60%;
+}
+
+
+.featured-video {
+    flex:2;
+    
+}
+.featured-video iframe {
+    width: 100% ;
+  height: 100% ;
+  
+}
+/* main */
+
+.main {
+    height: 100vh;
+    padding-top: 14vh;
+}
+
+.main {
+    margin: auto 5%;
+}
+.featured-video h1 {
+    font-size: 18px;
+    margin: 14px 0px;
+}
+.featured-details {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.reaction {
+    width: 60%;
+    align-self: flex-end;
+    display: flex;
+    justify-content: flex-end;
+    color: gray;
+    font-size: 14px;
+}
+.reaction a {
+    margin: 0 10px;
+    color: gray;
+}
+.reaction a:hover {
+    color: rgb(85, 77, 77);
+}
+.description {
+    display: flex;
+    
+}
+.description img {
+    width: 30px;
+    border-radius: 50%;
+}
+.about-uploader {
+    margin: 10px;
+
+}
+.about-uploader p {
+    margin: 20px;
+}
+.about-uploader p:last-child{
+    color: rgba(0, 0, 0, 0.493);
+    cursor: pointer;
+}
+.subscribe {
+    height: 40px;
+    background-color: #CC2005;
+    color: #fff;
+    font-weight: 500;
+    display: inline-block;
+    border: none;
+    padding: .7rem 1rem;
+    cursor: pointer;
+}
+
+
+
+/* Aside */
+.aside {
+    flex: 1;
+}
+.toggle-next {
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+
+}
+.recommended-list {
+    padding: 1rem;
+    width: 100%;
+}
+.recommended-video {
+    display: flex;
+        
+}
+.recommended-video {
+    padding: 1rem;
+}
+.suggested-description {
+    padding: 0.2rem 1rem;
+}
+.suggested-description h2{
+    font-size: 16px;
+    font-weight: 500;
+}
+.suggested-description p{
+    margin: 5px 0;
+}
