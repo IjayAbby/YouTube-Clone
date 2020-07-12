@@ -33,7 +33,7 @@ This project is a replica of youtube player page
 ​
 Contributions, issues and feature requests are welcome!
 ​
-Feel free to check the <a href="https://github.com/RICKCOYL/embeded-images-and-videos/issues"> issues page</a>.
+Feel free to check the <a href="https://github.com/IjayAbby/YouTube-Clone/issues"> issues page</a>.
 ​
 ## Show your support
 ​
