@@ -2,7 +2,7 @@
 # Embedding Images and Video - Project 1.
 
 This is a challenge to recreate a YouTube page using HTML and CSS
-​![Screenshot from 2020-07-12 22-11-26](https://user-images.githubusercontent.com/43843720/87256581-a5926b00-c49c-11ea-8059-7d43adf5f10e.png)
+​ ![project-screenshot](https://user-images.githubusercontent.com/31089872/87283583-b91df000-c4f5-11ea-8894-182f83b7f456.png)
 
 ## Built With
 ​
