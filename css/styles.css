@@ -71,7 +71,6 @@ body {
     
 }
 .header-links {
-    display: flex;
     align-items: center;
     width: 100%;
     list-style: none;
@@ -83,7 +82,6 @@ body {
 
 }
 .logo-area {
-    display: flex;
     align-items: center;
     padding: 0 20px;
 
@@ -138,7 +136,6 @@ body {
 }
 
 .featured-area{
-    display: flex;
     height: 60%;
 }
 
@@ -179,7 +176,6 @@ body {
 .reaction {
     width: 60%;
     align-self: flex-end;
-    display: flex;
     justify-content: flex-end;
     color: gray;
     font-size: 14px;
@@ -191,14 +187,8 @@ body {
 .reaction a:hover {
     color: rgb(85, 77, 77);
 }
-.description {
-    display: flex;
-    
-}
-.description img {
-    width: 30px;
-    border-radius: 50%;
-}
+
+
 .about-uploader {
     margin: 10px;
 
