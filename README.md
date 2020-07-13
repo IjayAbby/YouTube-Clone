@@ -1,23 +1,19 @@
 # YouTube-Clone
 # Embedding Images and Video - Project 1.
 
-This project is a replica of youtube player page
-​
-## Desktop
+This is a challenge to recreate a YouTube page using HTML and CSS
+​ ![project-screenshot](https://user-images.githubusercontent.com/31089872/87283583-b91df000-c4f5-11ea-8894-182f83b7f456.png)
 
 ## Built With
 ​
-- HTML,
-- CSS,
-- VS Code
-- Firefox Developer Edition dev tools
+- HTML
+- CSS
 ​
 ## Live Demo
+[YouTube-Clone](https://festive-yalow-f4b72f.netlify.app/)
 
-
-​
 ## Authors
-​
+
 👤 **Abigael Nyangasi**
 ​
 - Github: [IjayAbby](https://github.com/IjayAbby)
@@ -28,16 +24,16 @@ This project is a replica of youtube player page
 
 👤 **Gilbert Gotora**
 ​
-- Github: [Rickcoyl](https://github.com/8Bts)
-- Twitter: [@Rasheed49705929](https://twitter.com/Rasheed49705929)
-- Linkedin: [rick oburu](https://www.linkedin.com/in/rick-oburu-8627591a4//)
-- Email: rickoburu@gmail.com
+- Github: [ggotora](https://github.com/ggotora)
+- Twitter: [@gotora_gilbert](https://twitter.com/gotora_gilbert)
+- Linkedin: [linkedin Gilbert Gotora](https://www.linkedin.com/in/gilbert-gotora/)
+- Email: gilbertgotora2@gmail.com
 ​
 ## �� Contributing
 ​
 Contributions, issues and feature requests are welcome!
 ​
-Feel free to check the <a href="https://github.com/RICKCOYL/embeded-images-and-videos/issues"> issues page</a>.
+Feel free to check the <a href="https://github.com/IjayAbby/YouTube-Clone/issues"> issues page</a>.
 ​
 ## Show your support
 ​
